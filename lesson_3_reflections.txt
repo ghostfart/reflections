@@ -1,0 +1,3 @@
+When woudl you use a remote repository rather than keeping all your work local?
+
+Working with colleagues, sharing with markers. Working on different sites for the same project (e.g. at home and work). 
