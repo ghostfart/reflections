@@ -1,0 +1,7 @@
+What happens when initialise a repository? Why do you need to do it?
+
+Git creates the structure of a repository, but nothing is commited to it. You do it to create a structure on which to build things, and you might not want to include all files in the directory. 
+
+How is the staging area differrent from the working directory and the repository? What value do you think it offers?
+
+It's a halfway house, to clearly markout what you want to track, and what you don't want to track. 
